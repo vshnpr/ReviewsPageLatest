@@ -1,0 +1,43 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Font-style {
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  background-color: #fb7d6c;
+  color: "white";
+  border-radius: 10;
+  margin-left: -10px;
+  margin-bottom: -10px;
+}
+
+.likeDislikeButtons {
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+}
+
+.Section {
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  padding: 15px;
+  text-align: center;
+  color: "White";
+  border-radius: 50;
+}
+.Root {
+  display: flex;
+  height: 100%;
+  background-color: #eaebff;
+}
+.WordcloudDIV {
+  width: 100%;
+}
+.Myboxes {
+  background-color: #eaebff;
+  padding: 0px 10px 45px 0px;
+  height: 30%;
+}
+.Gridpadding {
+  padding: 45px 0px 0px 10px;
+}
